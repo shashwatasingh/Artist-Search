@@ -1,0 +1,19 @@
+{
+  "name": "angularjs",
+  "version": "0.0.1",
+  "description": "This project is made for my course on Lynda.com",
+  "author": "Shashwata Singh",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  },
+  "main": "gulpfile.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "node app",
+  "postinstall": "gulp default"
+  },
+  "license": "ISC"
+
+}
+
